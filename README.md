@@ -8,7 +8,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/Gojo-Bot/GojoSatoruBot"><img title="Recode" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Gojo-Bot/GojoSatoruBot"><img title="Recode" src="https://img.shields.io/badge/Recode-Gojo-Bot-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Gojo-Bot/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeone-ofc?color=red&style=flat-square"></a>
@@ -22,11 +22,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#requirements">Requirements</a> •
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#instalasi">Installation</a> •
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#thanks-to">Thanks to</a> •
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#donate">Donate</a>
+  <a href="https://github.com/Gojo-Bot/Gojo-Bot#requirements">Requirements</a> •
+  <a href="https://github.com/Gojo-Bot/GojoSatoruBot#instalasi">Installation</a> •
+  <a href="https://github.com/Gojo-Bot/GojoSatoruBot#thanks-to">Thanks to</a> •
+  <a href="https://github.com/Gojo-Bot/Gojo-Bot#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/Gojo-Bot/GojoSatoruBot#donate">Donate</a>
 </p>
 </div>
 
@@ -53,8 +53,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```ts
 apt update && apt upgrade
 pkg install bash
-git clone https://github.com/zeeone-ofc/Alphabot-Md.git
-cd Alphabot-Md
+git clone https://github.com/Gojo-Bot/GojoSatoruBot.git
+cd GojoSatoruBot
 bash install.sh
 ```
 
