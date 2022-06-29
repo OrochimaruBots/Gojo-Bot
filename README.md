@@ -85,16 +85,6 @@ global.author = 'By GojoSatoru' //sticker wm
 global.sessionName = 'session'
 ```
 
-## ```HOW TO DEPLOY```
-
-[`Click Here For Tutorial`](https://youtu.be/SdKHkld2NcI)<br>
-
-----------
-
-<p align="center">
-  <a href="https://youtu.be/SdKHkld2NcI"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
-</p>
-
 ## Donate
 - [Saweria](https://saweria.co/zeeoneofc)
 - [Dana](https://j.top4top.io/p_20532posd1.jpg)
@@ -105,8 +95,8 @@ global.sessionName = 'session'
 - [Group 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
 - [Group 2](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
 - [Group 3](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
-- [Group 4](https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU)
-- [Group 5](https://chat.whatsapp.com/ELa7GhU0sP4EvXcVimQYtz)
+- [Group 4](https://chat.whatsapp.com/ChDmgKcqXQV7EL9Pzgou8E)
+- [Group 5](https://chat.whatsapp.com/IJ5ull4HXaY647D6ACw4kj)
 
 # Thanks to
 <a href="https://github.com/DikaArdnt"><img src="https://github.com/DikaArdnt.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
