@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://github.com/Gojo-Bot/followers"><img title="Followers" src="https://img.shields.io/github/followers/Gojo-Bot?color=red&style=flat-square"></a>
 <a href="https://github.com/Gojo-Bot/GojoSatoruBot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Gojo-Bot/GojoSatoruBot?color=blue&style=flat-square"></a>
-<a href="https://github.com/Gojo-Bot/GojoSatoruBot/network/members"><img title="Forks" src="https://img.shields.io/github/fork/Gojo-Bot/GojoSatoruBot?color=red&style=flat-square"></a>
+<a href="https://github.com/Gojo-Bot/GojoSatoruBot/network/members"><img title="" src="https://img.shields.io/github/fork/Gojo-Bot/GojoSatoruBot?color=red&style=flat-square"></a>
 <a href="https://github.com/Gojo-Bot/GojoSatoruBot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Gojo-Bot/GojoSatoruBot?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Gojo-Bot/GojoSatoruBot"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 <a href="https://github.com/Gojo-Bot/GojoSatoruBot/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeone-ofc/GojoSatoruBot?style=flat-square&color=green"></a>
