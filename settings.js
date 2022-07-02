@@ -8,22 +8,22 @@ global.APIs = {
 
 // Free apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.xyz': 'your apikey',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'https://api.gojosatoru.xyz': 'your apikey',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
 // setting 
-global.autoread = false // auto read pesan / message
-//global.autorecording = true //status auto merekam ( auto record )
-//global.autoketik = false //status auto mengetik (auto typing)
-//global.available = false //status online (online)
+global.autoread = true // auto read pesan / message
+//global.autorecording = false //status auto merekam ( auto record )
+//global.autoketik = true //status auto mengetik (auto typing)
+//global.available = true //status online (online)
 
 // Other
-global.botname = "Gojo Satoru Bot" //namabot kalian
+global.botname = "Gojobotz-MD" //namabot kalian
 global.ownername= "Gojo Satoru" //nama kalian
 global.myweb ="https://api.gojo.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/GojoBot" //bebas asal jan hapus
 global.github = "https://Gojo-Bot.github.io/" //bebas
-global.email = "gojoSatorubotz@gmail.com" //bebas
+global.email = "gojosatorubotz@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.ownernomer = "6288804947282" // nomor wa kalian
 global.ownernomerr = "+6288804947282" //nmr wa kalian
