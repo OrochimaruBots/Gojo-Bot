@@ -3,7 +3,7 @@ const chalk = require('chalk')
 
 // Website Api
 global.APIs = {
-	alfa: 'https://api.zeeoneofc.xyz', //apabila link api eror, segera laporkan ke owner
+	alfa: 'https://api.gojosatoru.xyz', //apabila link api eror, segera laporkan ke owner
 }
 
 // Free apikey
@@ -20,10 +20,10 @@ global.autoread = false // auto read pesan / message
 // Other
 global.botname = "Gojo Satoru Bot" //namabot kalian
 global.ownername= "Gojo Satoru" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
+global.myweb ="https://api.gojo.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
 global.github = "https://Gojo-Bot.github.io/" //bebas
-global.email = "GojoSatoru@gmail.com" //bebas
+global.email = "gojoSatorubotz@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.ownernomer = "6288804947282" // nomor wa kalian
 global.ownernomerr = "+6288804947282" //nmr wa kalian
