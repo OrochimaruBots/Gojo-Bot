@@ -92,7 +92,7 @@ saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp.
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu YamatoBot :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -104,11 +104,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ ${prefix}donate
 
 
-╭─❒ 「 Owner 」 
-├ < evaluate
-├ > evaluate
-├ $ exec
-├ => exec
+╭─❒ 「 Owner 」
 ├ ${prefix}setmenu [query]
 ├ ${prefix}setmenu templateLocation
 ├ ${prefix}setmenu templateTenor
