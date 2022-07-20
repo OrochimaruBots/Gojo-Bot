@@ -20,7 +20,7 @@ global.autoread = true // auto read pesan / message
 // Other
 global.botname = "YamatoBot" //namabot kalian
 global.ownername= "Yamato" //nama kalian
-global.myweb ="https://api.yamato.xyz" //bebas asal jan hapus
+global.linkgc ="https://chat.whatsapp.com/EBmxhNUoPm4583MPFndeM2" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/YamatoBotz" //bebas asal jan hapus
 global.github = "https://OrochimaruBotz.github.io/" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
